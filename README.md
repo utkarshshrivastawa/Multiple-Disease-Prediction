@@ -1,5 +1,5 @@
 # Multiple-Disease-Prediction
-TO view this project : https://multiple-disease-prediction-f3cvshkav5ugmoqlybm6qp.streamlit.app/
+To view this project : https://multiple-disease-prediction-f3cvshkav5ugmoqlybm6qp.streamlit.app/
 
 ## Multi-Disease Diagnosis Assistant
 This Streamlit-based web application leverages machine learning models to predict the likelihood of diseases such as diabetes, heart disease, breast cancer, and stroke. Designed with an intuitive user interface, the application provides a seamless experience for users to input their medical parameters and receive instant predictions.
