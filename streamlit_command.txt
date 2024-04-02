@@ -1,0 +1,1 @@
+streamlit run "C:\Users\utkar\100 days ML\Multiple Disease Pediction\multiple disease Prediction web page .py"
